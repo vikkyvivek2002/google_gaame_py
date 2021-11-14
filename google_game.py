@@ -1,0 +1,2 @@
+Runner.prototype.gameOver = function() {}
+ƒ () {}
